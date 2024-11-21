@@ -2,6 +2,8 @@
 
 This challenge is designed to evaluate your ability to work with large datasets, implement pagination, and handle reactive filtering while maintaining performance and usability. The challenge mimics a real-world scenario that requires a mix of technical and design decisions.
 
+*Do not spend more 2 hours on this test.*
+
 ## The Challenge
 
 You are tasked with building a Product List Screen. The screen must display a large list of products, support infinite scrolling (pagination), and allow users to filter products by category using a simple dropdown or similar.
