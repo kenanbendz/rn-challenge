@@ -30,7 +30,7 @@ The dataset consists of 10,000 mock products spread across multiple categories. 
 
 #### Performance Optimization
 
-- Use React Native's FlatList with optimizations like keyExtractor, getItemLayout, and windowSize.
+- Use React Native's FlatList or similar / alternative, with optimizations like keyExtractor, getItemLayout, and windowSize.
 - Avoid rendering unnecessary items or causing jank during scrolling.
 
 #### Error Handling
