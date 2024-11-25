@@ -6,7 +6,7 @@ This challenge is designed to evaluate your ability to work with large datasets,
 
 ## The Challenge
 
-You are tasked with building a Product List Screen. The screen must display a large list of products, support infinite scrolling (pagination), and allow users to filter products by category using a simple dropdown or similar.
+You are tasked with building a Product List Screen. The screen must display a large list of products, support infinite scrolling, and allow users to filter products by category using a simple dropdown or similar.
 
 The dataset consists of 10,000 mock products spread across multiple categories. Your task is to:
 
@@ -16,7 +16,7 @@ The dataset consists of 10,000 mock products spread across multiple categories. 
 
 ## Requirements
 
-#### Pagination
+#### Infinite scrolling
 
 - Display products in chunks of 20-50 items.
 - Implement infinite scrolling to fetch more items when the user reaches the end of the list.
